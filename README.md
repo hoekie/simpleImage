@@ -12,6 +12,8 @@ Then create a new instance of the image helper:
 
 <code>
 $img = new SimpleImage('image.jpg');
+</code>
 
+<code>
 $img->flip('x')->rotate(90)->best_fit(320, 200)->sepia()->save('result.gif');
 </code>
