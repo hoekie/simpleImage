@@ -2,4 +2,5 @@
 
 An image helper for Simple MVC Framework
 
-In development
+Include this class in your controller
+
