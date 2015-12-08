@@ -1,6 +1,6 @@
 # simpleImage
 
-An image helper for Simple MVC Framework
+An image helper for Simple MVC Framework.
 
 Copy the helper to the app\helpers dirctory and include this class in your controller:
 
