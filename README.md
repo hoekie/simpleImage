@@ -2,7 +2,7 @@
 
 An image helper for Simple MVC Framework.
 
-Deal with images with this excelent piece of code from Cory LaViska from http://www.abeautifulsite.net!
+A wrapper for dealing with images with the excelent piece of code from Cory LaViska from http://www.abeautifulsite.net!
 
 Features:
 
