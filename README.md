@@ -53,8 +53,8 @@ This will load image.jpg, flip it horizontally, rotate it 90 degrees, shrink it 
 $img->flip('x')->rotate(90)->best_fit(320, 200)->sepia()->save('result.gif');
 </code>
 
-For more examples, visit [http://www.abeautifulsite.net/the-simple-image-class-for-php](http://www.abeautifulsite.net/the-simple-image-class-for-php)
+For more examples, visit [http://www.abeautifulsite.net/the-simple-image-class-for-php](http://www.abeautifulsite.net/the-simple-image-class-for-php).
 
 #### Credits:
 
-All credits goes to LaViska at [http://www.abeautifulsite.net](http://www.abeautifulsite.net)
+All credits goes to LaViska at [http://www.abeautifulsite.net](http://www.abeautifulsite.net).
