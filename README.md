@@ -45,6 +45,16 @@ Then create a new instance of the image helper:
 $img = new SimpleImage('image.jpg');
 </code>
 
+#### Example:
+
+This will load image.jpg, flip it horizontally, rotate it 90 degrees, shrink it to fit within a 320×200 box, apply a sepia effect, convert it to a GIF, and save it to result.gif:
+
 <code>
 $img->flip('x')->rotate(90)->best_fit(320, 200)->sepia()->save('result.gif');
 </code>
+
+For more examples, visit [http://www.abeautifulsite.net/the-simple-image-class-for-php](http://www.abeautifulsite.net/the-simple-image-class-for-php)
+
+#### Credits:
+
+All credits goes to LaViska at [http://www.abeautifulsite.net](http://www.abeautifulsite.net)
