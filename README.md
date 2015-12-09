@@ -57,4 +57,4 @@ For more examples, visit [http://www.abeautifulsite.net/the-simple-image-class-f
 
 #### Credits:
 
-All credits goes to LaViska at [http://www.abeautifulsite.net](http://www.abeautifulsite.net).
+All credits goes to Cory LaViska at [http://www.abeautifulsite.net](http://www.abeautifulsite.net).
